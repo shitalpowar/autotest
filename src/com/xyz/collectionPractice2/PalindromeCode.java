@@ -19,6 +19,7 @@ public class PalindromeCode {
 
       }
         System.out.println(characters);
+        System.out.println();
 
 
 
